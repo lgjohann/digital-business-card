@@ -2,7 +2,6 @@
   font-family: Inter, sans-serif;
   box-sizing: border-box;
   margin: 0;
-  color-scheme: light dark;
   background-color: #6382a5;
 }
 
@@ -34,6 +33,7 @@ a {
   margin-top: 20px;
   font-weight: 700;
   font-size: 1.6rem;
+  color:#ffffff;
 }
 
 .role {
@@ -67,6 +67,7 @@ a {
 .email-button {
   background: #ffffff;
   color: #374151;
+  border: #374151;
 }
 
 .email-button > svg {
@@ -75,6 +76,8 @@ a {
 
 .linkedin-button {
   background: #5093e2;
+  color: #ffffff;
+  border: #5093e2;
 }
 
 .linkedin-button > svg {
@@ -92,7 +95,7 @@ a {
   font-weight: 700;
   font-size: 1.4em;
   line-height: 15px;
-  
+  color: #ffffff;
 }
 
 p {
@@ -113,6 +116,7 @@ p {
   font-weight: 700;
   font-size: 1.4em;
   line-height: 15px;
+  color: #ffffff;
 }
 
 footer {
@@ -129,5 +133,5 @@ footer {
 .github {
   font-size: 2.5rem;
   text-decoration: none;
-  
+  color: #e07fd8;
 }
